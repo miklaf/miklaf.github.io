@@ -1,3 +1,3 @@
 # Michalis 
-## miklaf.github.io
+## Hello world!
 This is a general info page
